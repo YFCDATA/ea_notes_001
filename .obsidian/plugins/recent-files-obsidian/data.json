@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Day Planner-20221024",
+      "path": "Day Planners/Day Planner-20221024.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
       "basename": "2_任务清单",
       "path": "R_日记/2_任务清单.md"
-    },
-    {
-      "basename": "2022-10-24",
-      "path": "R_日记/2022-10-24.md"
     },
     {
       "basename": "1_备忘录",
@@ -75,10 +75,6 @@
     {
       "basename": "Odoo 16 源码安装",
       "path": "1_安装与部署/Odoo 16 源码安装.md"
-    },
-    {
-      "basename": "知识卡片",
-      "path": "T_模板/知识卡片.md"
     }
   ],
   "omittedPaths": [],
