@@ -1,80 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "日记模板",
+      "path": "T_模板/日记模板.md"
+    },
+    {
+      "basename": "记事本",
+      "path": "T_模板/记事本.md"
+    },
+    {
+      "basename": "分栏模板",
+      "path": "T_模板/分栏模板.md"
+    },
+    {
+      "basename": "Day Planner-20221024",
+      "path": "Day Planners/Day Planner-20221024.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "2_任务清单",
-      "path": "R_日记/2_任务清单.md"
-    },
-    {
-      "basename": "2022-10-24",
-      "path": "R_日记/2022-10-24.md"
-    },
-    {
-      "basename": "1_备忘录",
-      "path": "R_日记/1_备忘录.md"
-    },
-    {
-      "basename": "参考引用",
-      "path": "4_开发实践/Odoo OWL组件开发/参考引用.md"
-    },
-    {
-      "basename": "widget",
-      "path": "3_框架研究/widget.md"
-    },
-    {
-      "basename": "odoo 启动过程",
-      "path": "3_框架研究/odoo 启动过程.md"
-    },
-    {
-      "basename": "from 视图按钮",
-      "path": "3_框架研究/from 视图按钮.md"
-    },
-    {
-      "basename": "CMS 网站开发",
-      "path": "3_框架研究/CMS 网站开发.md"
-    },
-    {
-      "basename": "源码的整体结构",
-      "path": "3_框架研究/源码的整体结构.md"
-    },
-    {
-      "basename": "视图切换体系",
-      "path": "3_框架研究/视图切换体系.md"
-    },
-    {
-      "basename": "前后端交互",
-      "path": "3_框架研究/前后端交互.md"
-    },
-    {
-      "basename": "模块数据管理",
-      "path": "3_框架研究/模块数据管理.md"
-    },
-    {
-      "basename": "框架研究目录",
-      "path": "3_框架研究/框架研究目录.md"
-    },
-    {
-      "basename": "看板视图",
-      "path": "3_框架研究/看板视图.md"
-    },
-    {
-      "basename": "运行 Odoo",
-      "path": "1_安装与部署/运行 Odoo.md"
-    },
-    {
-      "basename": "odoo-bin与启动",
-      "path": "1_安装与部署/odoo-bin与启动.md"
-    },
-    {
-      "basename": "Odoo 启动过程",
-      "path": "3_框架研究/我的笔记/Odoo 启动过程.md"
-    },
-    {
-      "basename": "Odoo 16 源码安装",
-      "path": "1_安装与部署/Odoo 16 源码安装.md"
+      "basename": "Callouts",
+      "path": "T_模板/Callouts.md"
     },
     {
       "basename": "知识卡片",

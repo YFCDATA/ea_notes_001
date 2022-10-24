@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ccce2b6e9e9580b",
+            "id": "f12bba2999f3014f",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-领域方策",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "T_模板/日记模板.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "T_模板/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "T_模板/日记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "T_模板/日记模板.md"
+              }
             }
           },
           {
@@ -156,17 +164,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4e231202092440d0",
+  "active": "f12bba2999f3014f",
   "lastOpenFiles": [
+    "T_模板/记事本.md",
+    "T_模板/分栏模板.md",
+    "Day Planners/Day Planner-20221024.md",
     "README.md",
+    "T_模板/日记模板.md",
+    "T_模板/Callouts.md",
+    "T_模板/知识卡片.md",
     "R_日记/2022-10-24.md",
     "R_日记/2_任务清单.md",
-    "4_开发实践/Odoo OWL组件开发/参考引用.md",
-    "3_框架研究/widget.md",
-    "3_框架研究/odoo 启动过程.md",
-    "3_框架研究/from 视图按钮.md",
-    "3_框架研究/CMS 网站开发.md",
-    "3_框架研究/源码的整体结构.md",
-    "3_框架研究/视图切换体系.md"
+    "4_开发实践/Odoo OWL组件开发/参考引用.md"
   ]
 }
