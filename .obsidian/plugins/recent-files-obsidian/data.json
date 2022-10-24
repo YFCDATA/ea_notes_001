@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "分栏模板",
+      "path": "T_模板/分栏模板.md"
+    },
+    {
       "basename": "日记模板",
       "path": "T_模板/日记模板.md"
     },
     {
-      "basename": "记事本",
-      "path": "T_模板/记事本.md"
+      "basename": "知识卡片",
+      "path": "T_模板/知识卡片.md"
     },
     {
-      "basename": "分栏模板",
-      "path": "T_模板/分栏模板.md"
+      "basename": "Callouts",
+      "path": "T_模板/Callouts.md"
+    },
+    {
+      "basename": "记事本",
+      "path": "T_模板/记事本.md"
     },
     {
       "basename": "Day Planner-20221024",
@@ -19,14 +27,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Callouts",
-      "path": "T_模板/Callouts.md"
-    },
-    {
-      "basename": "知识卡片",
-      "path": "T_模板/知识卡片.md"
     }
   ],
   "omittedPaths": [],
