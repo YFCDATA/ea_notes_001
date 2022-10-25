@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "42dcb520d2195bf7",
+        "id": "2f55a8dd72cff982",
         "type": "tabs",
         "children": [
           {
-            "id": "306c6b739dca65d5",
+            "id": "3cd41af682fdea35",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "YouGaHei/管理学.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c41187dc418549a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a595a44d96fd127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YouGaHei/企业人力资源管理.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "YouGaHei/企业人力资源管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "YouGaHei/企业人力资源管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "YouGaHei/企业人力资源管理.md"
+              }
             }
           },
           {
@@ -156,17 +180,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4e231202092440d0",
+  "active": "4a595a44d96fd127",
   "lastOpenFiles": [
-    "T_模板/分栏模板.md",
-    "T_模板/日记模板.md",
-    "T_模板/Callouts.md",
-    "T_模板/知识卡片.md",
-    "Day Planners/Day Planner-20221024.md",
-    "T_模板/记事本.md",
-    "README.md",
-    "R_日记/2022-10-24.md",
-    "R_日记/2_任务清单.md",
-    "4_开发实践/Odoo OWL组件开发/参考引用.md"
+    "YouGaHei/人力资源管理职能.md",
+    "YouGaHei/管理学.md",
+    "YouGaHei/企业人力资源管理.md",
+    "YouGaHei/人力资源系统.md",
+    "YouGaHei/职业生涯发展.md",
+    "YouGaHei/劳动关系协调.md",
+    "YouGaHei/奖金福利保障.md",
+    "YouGaHei/薪资报酬分配.md",
+    "YouGaHei/员工培训开发.md",
+    "YouGaHei/工作业绩考评.md"
   ]
 }
