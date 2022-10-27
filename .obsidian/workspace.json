@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "49e054f414d11902",
+        "id": "1562763e21f2e1ea",
         "type": "tabs",
         "children": [
           {
-            "id": "5ccce2b6e9e9580b",
+            "id": "f9b07f9f5dd968ea",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-领域方策",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "管理百年/14　卢瑟·哈尔西·古利克.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "264e080dc17ac11f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "管理百年/00 管理百年思想发展历程.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#框架研究",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "管理百年/00 管理百年思想发展历程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "管理百年/00 管理百年思想发展历程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "管理百年/00 管理百年思想发展历程.md"
+              }
             }
           },
           {
@@ -146,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,17 +177,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4e231202092440d0",
+  "active": "264e080dc17ac11f",
   "lastOpenFiles": [
+    "管理百年/5　亨利·法约尔.md",
+    "管理百年/00 管理百年思想发展历程.md",
+    "1_关键词/未命名看板.md",
+    "1_关键词/人力资源管理职能.md",
+    "1_关键词/人力资源管理的职能.md",
+    "1_关键词/人力资源的概念.md",
+    "1_关键词/企业人力资源管理的目的.md",
+    "1_关键词/关键词目录.md",
     "README.md",
-    "R_日记/2022-10-24.md",
-    "R_日记/2_任务清单.md",
-    "4_开发实践/Odoo OWL组件开发/参考引用.md",
-    "3_框架研究/widget.md",
-    "3_框架研究/odoo 启动过程.md",
-    "3_框架研究/from 视图按钮.md",
-    "3_框架研究/CMS 网站开发.md",
-    "3_框架研究/源码的整体结构.md",
-    "3_框架研究/视图切换体系.md"
+    "管理百年/13　林德尔·福恩斯·厄威克.md"
   ]
 }

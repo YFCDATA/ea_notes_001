@@ -382,7 +382,345 @@
         "mostRecentAction": ""
       },
       "active": "c7532a0fb6ed203b"
+    },
+    "领域方策": {
+      "main": {
+        "id": "3e832d1d1e618a37",
+        "type": "split",
+        "children": [
+          {
+            "id": "49e054f414d11902",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5ccce2b6e9e9580b",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-领域方策",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "94da8e27e00e0ecf",
+        "type": "split",
+        "children": [
+          {
+            "id": "5b6f62f9ea8338e4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4e231202092440d0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "25fc92332788d7a4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#框架研究",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5480c86f6b468fa7",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "48d836e1f8b55f28",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 246.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "c3c674a0e2f74576",
+        "type": "split",
+        "children": [
+          {
+            "id": "b103fcae2f9cca98",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0c71f056a7e3414c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "7d42ee4973f5353b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ccea8b869c8964e3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "088a582d879e353b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c7532a0fb6ed203b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4a86df296ce5e3cc",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 271.5,
+        "collapsed": true
+      },
+      "ribbon": {
+        "mostRecentAction": ""
+      },
+      "active": "5ccce2b6e9e9580b"
+    },
+    "关键词目录编辑": {
+      "main": {
+        "id": "3e832d1d1e618a37",
+        "type": "split",
+        "children": [
+          {
+            "id": "49e054f414d11902",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5ccce2b6e9e9580b",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-领域方策",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8343a74579defca8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1_关键词/关键词目录.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "94da8e27e00e0ecf",
+        "type": "split",
+        "children": [
+          {
+            "id": "5b6f62f9ea8338e4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4e231202092440d0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "25fc92332788d7a4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#框架研究",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5480c86f6b468fa7",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "48d836e1f8b55f28",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 246.5
+      },
+      "right": {
+        "id": "c3c674a0e2f74576",
+        "type": "split",
+        "children": [
+          {
+            "id": "b103fcae2f9cca98",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0c71f056a7e3414c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1_关键词/关键词目录.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "7d42ee4973f5353b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1_关键词/关键词目录.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ccea8b869c8964e3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "088a582d879e353b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1_关键词/关键词目录.md"
+                  }
+                }
+              },
+              {
+                "id": "c7532a0fb6ed203b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4a86df296ce5e3cc",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 271.5,
+        "collapsed": true
+      },
+      "ribbon": {
+        "mostRecentAction": ""
+      },
+      "active": "8343a74579defca8"
     }
   },
-  "active": "备忘录"
+  "active": "关键词目录编辑"
 }
